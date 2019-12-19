@@ -83,6 +83,7 @@
     <Compile Include="FrmPerson.Designer.cs">
       <DependentUpon>FrmPerson.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\Utility.cs" />
     <Compile Include="Model\vmPerson.cs" />
     <Compile Include="OperationClass\C_Connection.cs" />
     <Compile Include="OperationClass\C_DatabaseOperation.cs" />
